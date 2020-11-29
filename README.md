@@ -10,9 +10,7 @@ contain  different  information   about  all  these  players.   I  explain  some
 characteristics of this dataset in nba-2k20-ratings.html file. 
 
 Finally, I have developed a simple Shiny app  to allow the dinamic visualization
-of the distribution  of values in each  numerical variable.  To make use of this
-app, you only have to type in your terminal the following command:
-
-                     runGitHub( "working_with_R", "edu9as")
+of the distribution  of values in each  numerical variable.  Somehow, the app is
+not working remotely, so I will try to fix this in the following days.
 
 I hope you enjoy this project!
